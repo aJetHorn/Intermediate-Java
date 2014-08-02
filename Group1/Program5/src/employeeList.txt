@@ -1,0 +1,2 @@
+Ed hourly 40 12.50 0
+Freddy salaried 60 0 65000
