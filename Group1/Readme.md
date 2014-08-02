@@ -1,4 +1,5 @@
 Group 1 has 11 Assignments
+
 Description: A fantastic collection of practice assignments that could be worked through over the course of a semester (or a weekend). Only one program utilizes a GUI. The problems are easy to understand, not too difficult, and cover a lot of useful topics. I highly recommend this group.
 
 1. [SumRowsAndColumns (nested loops)](https://github.com/aJetHorn/Intermediate-Java/tree/master/Group1/Program1)
