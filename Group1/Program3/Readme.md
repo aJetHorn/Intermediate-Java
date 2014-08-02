@@ -16,18 +16,23 @@ words. (This list is available on Course Site.)
 Raw Score = 0.1579*(PDW) + 0.0496*(ASL) + 3.6365
 
 o Raw Score = uncorrected reading grade of a student who can answer one- half of the test questions on a passage.
-o PDW = Percentage of Difficult Words not on the Dale–Chall word list. 
+o PDW = Percentage of Difficult Words not on the Dale–Chall word list.
 o ASL = Average Sentence Length
-1. Finally, to compensate for the "grade-equivalent curve," apply thefollowing chart for the Final Score:
+
+5. Finally, to compensate for the "grade-equivalent curve," apply thefollowing chart for the Final Score:
 
 Raw Score --- Final Score
-4.9 and below --- Grade 4 and below 
+4.9 and below --- Grade 4 and below
 5.0 to 5.9 --- Grades 5–6
 6.0 to 6.9 --- Grades 7–8
 7.0 to 7.9 --- Grades 9–10
 8.0 to 8.9 --- Grades 11–12
-9.0 to 9.9 --- Grades 13–15 (college) 
+9.0 to 9.9 --- Grades 13–15 (college)
 10 and above --- Grades 16 and above
+
 
 See the Readability Wikipedia Article (section: The Dale-Chall Formula) for more:
 http://en.wikipedia.org/wiki/Readability
+
+##Instructions for use:
+Provide the input file and the dalechall wordlist as command line arguments
