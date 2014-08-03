@@ -35,4 +35,7 @@ I am currently doing a walkthrough of Liang's Intro to Java 9th edition. You can
 Each folder should contain the assignment as a readme file as well as my solution and any other elements necessary to test the program's functionality. For now, the order represents the assigned order which can be interpreted as an order of ascending difficulty.
 
 ##Index
+1. [Group One](https://github.com/aJetHorn/Intermediate-Java/tree/master/Group1)
+1. [Group Two](https://github.com/aJetHorn/Intermediate-Java/tree/master/Group2)
+1. [Group Three](https://github.com/aJetHorn/Intermediate-Java/tree/master/Group3)
 
