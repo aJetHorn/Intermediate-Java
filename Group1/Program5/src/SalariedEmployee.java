@@ -3,7 +3,6 @@ public class SalariedEmployee extends Employee{
 	private double salary;
     public SalariedEmployee(String name, int hours, double salary){
         super(name, hours);
-        this.name = name;
         this.salary = salary;
     }
     @Override
